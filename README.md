@@ -18,6 +18,7 @@ Chodo Algo, is a Moroccan Algorithm Plugin For Notpad++ Made By Chodo Brothers C
 
 
 ### ها كيفاش كيكون الكود
+```
 Variables a,b,res ENTIER 
 Début 
 Ecrire(‘’saisie a’’) ;
@@ -33,7 +34,14 @@ Ecrire(‘’a * b = ’’ & res) ;
 Res ← a / b
 Ecrire(‘’a / b = ’’ & res) ;
 FIN
+```
 
 ### ها كيفاش كيولي
 ![ها كيفاش كيولي](https://raw.githubusercontent.com/Baronsindo/Chodo-Algo/master/Code.PNG)
+
+### الكلمات لي مدعومين 
+- VARIABLES DEBUT FIN 
+- ECRIRE LIRE SI NON FINSI SELON ALORS SINONSI POUR TANT QUE REPETER JUSQUA Fonction PROCEDURE
+- ENTIER BOOLEEN CHAINE REEL Tableau STRUCTURE
+- ! && << >> + - _ % "et" "ou" " ET" "OU" * / & ;
 
