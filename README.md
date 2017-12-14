@@ -20,19 +20,19 @@ Chodo Algo, is a Moroccan Algorithm Plugin For Notpad++ Made By Chodo Brothers C
 ### ها كيفاش كيكون الكود
 ```
 Variables a,b,res ENTIER 
-Début 
-Ecrire(‘’saisie a’’) ;
+Debut 
+Ecrire("saisie a") ;
 Lire(a)
-Ecrire(‘’saisie b ‘’) ;
+Ecrire("saisie b ") ;
 Lire(b)
 Res ← a +b
-Ecrire(‘’a + b = ’’ & res) ;
+Ecrire("a + b = " & res) ;
 Res ← a - b
-Ecrire(‘’a - b = ’’ & res) ;
+Ecrire("a - b = " & res) ;
 Res ← a * b
-Ecrire(‘’a * b = ’’ & res) ;
+Ecrire("a * b = " & res) ;
 Res ← a / b
-Ecrire(‘’a / b = ’’ & res) ;
+Ecrire("a / b = " & res) ;
 FIN
 ```
 
