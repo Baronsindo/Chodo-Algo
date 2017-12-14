@@ -45,3 +45,8 @@ FIN
 - ENTIER BOOLEEN CHAINE REEL Tableau STRUCTURE
 - ! && << >> + - _ % "et" "ou" " ET" "OU" * / & ;
 
+### إلا كانت شيجاجة مخداماش تواصل معايا فالباج فيسبوك هاهو اليان
+[ِChôdo Brothers](https://www.facebook.com/chodoBrothers)
+
+### لاشين يوتيوب 
+[ِChôdo Brothers](https://www.youtube.com/channel/UCg24iULyxUCUBiR216c_psg)
