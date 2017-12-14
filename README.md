@@ -1,4 +1,7 @@
 # Chodo-Algo
+### باينة فيك جاي من شودو برودرز يااااااك 
+
+![Chodo](https://raw.githubusercontent.com/Baronsindo/Chodo-Algo/master/M%20(17).png)
 Chodo Algo, is a Moroccan Algorithm Plugin For Notpad++ Made By Chodo Brothers Community (francophone) OFPPT
 
 > Chodo Brother wa7ed L cummunity Maghribiya li ghadi tbasset L3olom O lbarmaja O ghadi nhadro bdarija bach koolchi yfham 
